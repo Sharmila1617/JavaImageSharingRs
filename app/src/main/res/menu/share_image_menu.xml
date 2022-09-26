@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/drawable_id"
+        android:title="@string/share_drawable_image" />
+    <item android:id="@+id/gallery_id"
+        android:title="@string/share_gallery_image" />
+    <item android:id="@+id/camera_id"
+        android:title="@string/share_camera_image" />
+</menu>

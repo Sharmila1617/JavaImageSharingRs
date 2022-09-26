@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JavaImageSharing</string>
+
+    <string name="select_gallery">Select Gallery</string>
+    <string name="select_camera">Select Camera</string>
+
+    <string name="share_drawable_image">Share Drawable Image</string>
+    <string name="share_camera_image">Share Camera Image</string>
+    <string name="share_gallery_image">Share Gallery Image</string>
+</resources>
